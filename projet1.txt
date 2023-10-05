@@ -2,3 +2,13 @@ bonjour kiki95
 Salut Rems !
 
 Retour projet 1
+Re retour projet 1
+
+Commandes :
+git status
+cd : change directory
+git add . (ajouter "tous")
+git commit -m "msg"
+git clone
+git pull
+git push
